@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi!👋
+- Frontend development student based in Malmö.
 
+
+## Projects:
+
+Group project: [Todo App](https://github.com/ASW-programming/Group2-TodoApp.git)
+ React + Node.js app built in agile team collaboration.
+- Focused on frontend development (React components)
+- Worked with UI/UX design implementation from Figma.
+- Collaborated using Git/GitHub workflow in a team setting of 3.
 <!--
 **Biixie1/Biixie1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
