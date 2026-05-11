@@ -10,7 +10,7 @@ Group project: [Todo App](https://github.com/ASW-programming/Group2-TodoApp.git)
 - Worked with UI/UX design implementation from Figma.
 - Collaborated using Git/GitHub workflow in a team setting of 3.
 
-Group project 2: [Shopping website] (https://github.com/prasoons97/Group-Project-3.git)
+Group project 2: [Shopping website](https://github.com/prasoons97/Group-Project-3.git)
  React + Node.js 
 - Responsive design for desktop and mobile
 - Product listings and product pages
